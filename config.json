@@ -1,0 +1,16 @@
+{
+    "languages": {
+      "vi": {
+        "name": "Tiếng Việt",
+        "voices": [
+          {"id": "vi", "name": "Giọng tiếng Việt"}
+        ]
+      },
+      "en": {
+        "name": "Tiếng Anh",
+        "voices": [
+          {"id": "en", "name": "Giọng tiếng Anh"}
+        ]
+      }
+    }
+  }
